@@ -1,4 +1,4 @@
-# Fiften Solver
+# Fifteen Solver
 A 15 puzzle consists of a 4x4 grid of 15 numbered tiles and a blank space, where the goal is to rearrange the tiles by sliding them into the adjacent empty space until they are in ascending order from top left to bottom right (with the space last).
 
 | | | | |
