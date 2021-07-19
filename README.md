@@ -38,13 +38,13 @@ where N1-N16 are the tile numbers from top-left to bottom-right, and 0 is used f
 ```
 Nodes generated: 18039 (8913 open, 9126 closed)
 Solution(58):
-0.  start
-     6  3 10  9
+0.	start
+         6  3 10  9
 	 5 15  8  2
 	[] 11  7 14
 	13  1  4 12
 
-1.  up
+1.	up
 	 6  3 10  9
 	[] 15  8  2
 	 5 11  7 14
