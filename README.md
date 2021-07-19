@@ -14,8 +14,8 @@ A 15 puzzle consists of a 4x4 grid of 15 numbered tiles and a blank space, where
 | :-: | :-: | :-: | :-: |
 |  1 | 2  | 3  | 4  |
 |  5 | 6  | 7  | 8  |
-|  9 | 10  | 11  |   |
-| 13 | 14 | 15 | 12 |
+|  9 | 10  | 11  | 12 |
+| 13 | 14 | 15 |  |
 
 ### Usage
 `python3 fifteen.py N1 N2 N3 N4 N5 N6 N7 N8 N9 N10 N11 N12 N13 N14 N15 N16`
