@@ -1,4 +1,7 @@
 # Fifteen Solver
+This is a python program that solves 15 puzzles
+
+## Background
 A 15 puzzle consists of a 4x4 grid of 15 numbered tiles and a blank space, where the goal is to rearrange the tiles by sliding them into the adjacent empty space until they are in ascending order from top left to bottom right (with the space last).
 
 | | | | |
@@ -17,12 +20,12 @@ A 15 puzzle consists of a 4x4 grid of 15 numbered tiles and a blank space, where
 |  9 | 10  | 11  | 12 |
 | 13 | 14 | 15 |  |
 
-### Usage
+## Usage
 `python3 fifteen.py N1 N2 N3 N4 N5 N6 N7 N8 N9 N10 N11 N12 N13 N14 N15 N16`
 
 where N1-N16 are the tile numbers from top-left to bottom-right, and 0 is used for the empty space
 
-#### Example
+### Example
 | | | | |
 | :-: | :-: | :-: | :-: |
 |   6 |   3 | 10 |   9 |
